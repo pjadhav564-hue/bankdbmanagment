@@ -1,4 +1,4 @@
----------------------USE DB NAME "Bank"-----------------------
+
 
 ----------------- BANK DATABASE MANAGEMENT SYSTEM (DBMS)-----------------------------------------------------------------------
 
@@ -75,5 +75,6 @@ create role Probationary_officermeena with password 'Meena@2020';
 create role service_managerrahul with password 'Rahul@2020';
 create role  Branch_managerpriya with password 'User@123';
 ---------------------------------------------------------------------------------------------------------------------------
+
 
 
